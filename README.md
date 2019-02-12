@@ -1,7 +1,5 @@
-libShadowDive
-=============
-
-[![Build Status](https://travis-ci.org/omf2097/libShadowDive.png?branch=master)](https://travis-ci.org/omf2097/libShadowDive)
+THIS PROJECT IS DEPRECATED
+==========================
 
 Overview
 --------
